@@ -32,7 +32,7 @@
         </div>
       </div>
     </div>
-  </footer>
+</footer>
 
   <!-- Bootstrap core JavaScript -->
   <script src={{ asset('user/vendor/jquery/jquery.min.js') }}></script>

@@ -1,5 +1,5 @@
 @extends('user/app')
 
-@section('main-content')
-hello
+@section('content')
+    
 @endsection

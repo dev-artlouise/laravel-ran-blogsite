@@ -1,6 +1,6 @@
 @extends('user/app')
 
-@section('main-content')
+@section('content')
     <!--saka kunel post-->
     <article>
         <div class="container">
